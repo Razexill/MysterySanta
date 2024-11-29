@@ -1,4 +1,6 @@
 print('мистери санта')
 name = input('введите имя: ')
 print('hello',name)
-,f,tfktkkf
+if name == 'ilia':
+        print (name,'lox')
+else: print('lolol')
