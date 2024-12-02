@@ -6,4 +6,3 @@ if name == 'ilya':
 else: print('lolol')
 print()
 print('ij')
-testers
