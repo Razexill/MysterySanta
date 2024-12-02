@@ -1,7 +1,7 @@
 print('мистери санта')
 name = input('введите имя: ')
 print('hello',name)
-if name == 'ilia':
+if name == 'ilya':
         print (name,'lox')
 else: print('lolol')
 print()
